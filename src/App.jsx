@@ -1,7 +1,9 @@
+import StudentDetails from './pages/StudentDetails';
+
 function App() {
   return (
     <>
-      <h1>e</h1>
+      <StudentDetails />
     </>
   );
 }
